@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="image">
+    <file>backgroud.png</file>
+    <file>header.png</file>
+    <file>widget_back.png</file>
+    <file>header.jpg</file>
+    <file>blue.png</file>
+  </qresource>
+</RCC>
